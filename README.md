@@ -42,7 +42,7 @@ Per ultim he editar l'arxiu README.md amb el que s'indica en l'enunciat
 * Enllaços (al menys l'enllaç a rawgit)
 * Cursiva i negreta
 
-També he afegit imatges, per facilitar la compresió, el servidor que he utilitzat ha sigut el següent: https://image.ibb.co
+També he afegit imatges, per facilitar la comprensió de l'exercici, el servidor que he utilitzat ha sigut el següent: https://image.ibb.co
 
 [GitHub]: www.github.com
 [GitHub pages]: https://pages.github.com/
