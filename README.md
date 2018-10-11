@@ -28,6 +28,8 @@ Si obrim l’arxiu codi.rtf amb Microsoft word podem veure como apareix el resul
 
 * Com que rawgit ha tancat, he utilitzat [Github pages], he seguit les pases que indica la pàgina per poder vitsualitzar el [fitxer.html](https://csang0.github.io/codi.html)
 
+També he triat de entrar al altres arxius [(Codi.rtf)](https://csang0.github.io/codi.rtf) y [(Codi.xml)](https://csang0.github.io/codi.xml) 
+
 ### 4 - Edició del README.md
 
 
