@@ -33,12 +33,12 @@ El reusultat es aquest [enllaç](https://raw.githack.com/CSang0/Csang0.github.io
 
 ### 3 - Github pages 
 
-* Com que rawgit ha tancat, he utilitzat [_Git Hub pages_][GitHubpages], he seguit les pases que indica la pàgina per poder visualitzar el fitxer [**Codi.html**](https://csang0.github.io/codi.html)
+* Com que rawgit ha tancat, he utilitzat [_Git Hub pages_][GitHubpages], he seguit les pases que indica la pàgina per poder visualitzar el fitxer [**Codi.html**](https://csang0.github.io/codi.html).
 També he intentat entrar al altres arxius [(**Codi.rtf**)](https://csang0.github.io/codi.rtf) i [(**Codi.xml**)](https://csang0.github.io/codi.xml), en cas del Codi.rtf es descarrega l'arxiu que conté el codi i en l'arxiu Codi.xml es mostra al navegador el codi xml que conté el fitxer.
 
 ### 4 - Edició del README.md
 
-Per últim he editar l'arxiu README.md amb el que s'indica en l'enunciat
+Per últim he editar l'arxiu README.md amb el que s'indica en l'enunciat:
 * Títols
 * Llistes
 * Enllaços
