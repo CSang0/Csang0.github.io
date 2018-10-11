@@ -23,6 +23,8 @@ Si, obrint l’arxiu codi.rtf amb Microsoft word podem veure com apareix el resu
 ![GitBash](https://image.ibb.co/fsvw4U/5.png)
 * Els arxius s'han penjat correctament al repositori:
 ![GitHub](https://image.ibb.co/gArsdp/6.png)
+* També es possible penjar els arxius mitjançant el botó Upload Files **
+![UploadFiles](https://image.ibb.co/j6cDop/Screenshot_2.png)
 
 També he utilitzat [raw.githack.com](https://raw.githack.com/) ja que es mes paregut a RawGit i podem seguir les passes que indica l'enunciat:
 
