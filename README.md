@@ -10,7 +10,7 @@ Amb el bloc de notes crea documents _RTF, XML i HTML_ d'exemple.
 
 * **Canvia l'extensió del document (per exemple, a .rtf)**
 Despres he afegit l'extensió corresponent (_RTF, XML i HTML_) a cadascun del arxius:
-![HTML](https://image.ibb.co/myakyp/2.png)
+  ![HTML](https://image.ibb.co/myakyp/2.png)
 
 * **Obri el document amb el programari corresponent (per exemple, Open Office).
 Funciona?**
