@@ -31,7 +31,7 @@ El reusltat es aquest [enllaç](https://raw.githack.com/CSang0/Csang0.github.io/
 
 ### 3 - Github pages 
 
-* Com que rawgit ha tancat, he utilitzat [_GitHub pages_], he seguit les pases que indica la pàgina per poder vitsualitzar el fitxer [**Codi.html**](https://csang0.github.io/codi.html)
+* Com que rawgit ha tancat, he utilitzat [_Git Hub pages_][GitHubpages], he seguit les pases que indica la pàgina per poder vitsualitzar el fitxer [**Codi.html**](https://csang0.github.io/codi.html)
 També he triat de entrar al altres arxius [(**Codi.rtf**)](https://csang0.github.io/codi.rtf) y [(**Codi.xml**)](https://csang0.github.io/codi.xml), en cas del Codi.rtf es descarrega l'arxiu que conte el codi y en l'arxiu Codi.xml es mostra al navegador el codi xml que conté el fitxer.
 
 ### 4 - Edició del README.md
@@ -39,10 +39,10 @@ També he triat de entrar al altres arxius [(**Codi.rtf**)](https://csang0.githu
 Per ultim he editar l'arxiu README.md amb el que s'indica en l'enunciat
 * Títols
 * Llistes
-* Enllaços (al menys l'enllaç a rawgit)
+* Enllaços
 * Cursiva i negreta
 
 També he afegit imatges, per facilitar la comprensió de l'exercici, el servidor que he utilitzat ha sigut el següent: https://image.ibb.co
 
 [GitHub]: www.github.com
-[GitHub pages]: https://pages.github.com/
+[GitHubpages]: https://pages.github.com
